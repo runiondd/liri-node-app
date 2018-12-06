@@ -6,7 +6,7 @@ This node application at it's core is a simple SWITCH CASE statement.  From the 
 
 Commands & Filter:
   * "*concert-this*" *Artist*
-    *Will call the Bands In Town API and return the first result of a concert matching the artist that you entered.  
+     - Will call the Bands In Town API and return the first result of a concert matching the artist that you entered.  
       
   - "*spotify-this-song*" *Song*
       - Will call the Spotify API and return the first result matching the song you entered.  
