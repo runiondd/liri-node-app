@@ -26,7 +26,21 @@ Dependancies:
 - axios
 - node-spotify-api
 
-![alt text](https://github.com/runiondd/liri-node-app/blob/master/images/liri%20spotify%20success.png)
-      
+The successful Bands In Town Call
+ ![alt text](https://github.com/runiondd/liri-node-app/blob/master/images/liri%20bands%20in%20town.png)
   
+The successfull case when calling "*spotify-this-song*" *Song*
+![alt text](https://github.com/runiondd/liri-node-app/blob/master/images/liri%20spotify%20success.png)
+
+ The "no result/default" case when calling "*spotify-this-song*" *Song*
+ ![alt text](https://github.com/runiondd/liri-node-app/blob/master/images/spotify%20Ace%20of%20Base.png)
+ 
+ The Successful OMDB Call
+ ![alt text](https://github.com/runiondd/liri-node-app/blob/master/images/OMDB%20success.png)
+  
+The "no result/default" OMDB Call
+ ![alt text](https://github.com/runiondd/liri-node-app/blob/master/images/omdb%20Dr%20Nobody.png)
+  
+  The Read from a file and call Spotify use case
+ ![alt text](https://github.com/runiondd/liri-node-app/blob/master/images/read%20from%20File%20and%20search%20Spotify.png)
   
